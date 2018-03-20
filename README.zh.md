@@ -1,7 +1,5 @@
 # AgoraAudioIO for Android
 
-这个开源示例项目演示了Agora-RoadMap2.0.0版本音频自采集和音频自播放的功能。
-
 在这个示例项目中包含了以下功能：
 
 - 加入通话和离开通话；
